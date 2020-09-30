@@ -3901,8 +3901,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC/2" device=""/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R1" library="52101-101-REV-A" library_urn="urn:adsk.eagle:library:15662110" deviceset="RC-MASTER-SMD_R_" device="0603MP" package3d_urn="urn:adsk.eagle:package:15662272/2" value="40K"/>
-<part name="R2" library="52101-101-REV-A" library_urn="urn:adsk.eagle:library:15662110" deviceset="RC-MASTER-SMD_R_" device="0603MP" package3d_urn="urn:adsk.eagle:package:15662272/2" value="4K7"/>
+<part name="R1" library="52101-101-REV-A" library_urn="urn:adsk.eagle:library:15662110" deviceset="RC-MASTER-SMD_R_" device="0603MP" package3d_urn="urn:adsk.eagle:package:15662272/2" value="47K"/>
+<part name="R2" library="52101-101-REV-A" library_urn="urn:adsk.eagle:library:15662110" deviceset="RC-MASTER-SMD_R_" device="0603MP" package3d_urn="urn:adsk.eagle:package:15662272/2" value="5K1"/>
 <part name="C_CO2" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:21100215" deviceset="22UF-POLAR" device="-PANASONIC_C-35V-20%" package3d_urn="urn:adsk.eagle:package:21099999/2" value="47uF"/>
 <part name="C2" library="52101-101-REV-A" library_urn="urn:adsk.eagle:library:15662110" deviceset="RC-MASTER-SMD_C_" device="0603MP" package3d_urn="urn:adsk.eagle:package:15662234/2" value="10uF"/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
